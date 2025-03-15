@@ -91,7 +91,7 @@ int main()
             display();
             break;
         case 4:
-            system("CLS");
+            system("clear");
             break;
         case 5:
             exit(0);

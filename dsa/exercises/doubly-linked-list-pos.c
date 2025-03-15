@@ -124,7 +124,7 @@ int main()
             search(val);
             break;
         case 5:
-            system("CLS");
+            system("clear");
             break;
         case 6:
             exit(0);
